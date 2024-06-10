@@ -37,7 +37,7 @@ namespace UrlShortener.Controllers
             {
                 return NotFound();
             }
-            return Redirect(or);
+            return Redirect($"https://{or}");
         }
 
         [HttpGet("{shortenedUrl}")]
