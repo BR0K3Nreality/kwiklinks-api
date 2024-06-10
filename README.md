@@ -93,6 +93,12 @@ The API will be running at `http://localhost:5284`.
     ```
 - **Description**: This endpoint retrieves the original URL associated with the provided shortened URL without redirecting.
 
+### Hosted Rest API and live endpoints:
+- https://kwik.azurewebsites.net/api/ShortUrl/rd/{ShortUrlCode} -> to get the shortend redirect link
+- https://kwik.azurewebsites.net/api/ShortUrl/{originalUrl} -> takes in the original Url, creates a record in db and returns the ShortUrlCode
+
+### live site to preview/test:
+- https://kwiklinks.vercel.app/
 ## Database Configuration
 
 This project uses Dapper for database operations. The following SQL script can be used to set up the necessary database table:
