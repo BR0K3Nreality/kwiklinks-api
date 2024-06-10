@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vdd4zsaA+Cg=",
+  "dgSpecHash": "RmZG3uxLhKg=",
   "success": true,
-  "projectFilePath": "/Users/colekisten/Interviews/UrlShortener/UrlShortener.csproj",
+  "projectFilePath": "/Users/colekisten/Interviews/kwiklinks-api/UrlShortener.csproj",
   "expectedPackageFiles": [
     "/Users/colekisten/.nuget/packages/dapper/2.1.35/dapper.2.1.35.nupkg.sha512",
     "/Users/colekisten/.nuget/packages/microsoft.aspnetcore.cors/2.2.0/microsoft.aspnetcore.cors.2.2.0.nupkg.sha512",

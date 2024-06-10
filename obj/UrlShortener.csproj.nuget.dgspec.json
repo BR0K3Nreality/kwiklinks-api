@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/colekisten/Interviews/UrlShortener/UrlShortener.csproj": {}
+    "/Users/colekisten/Interviews/kwiklinks-api/UrlShortener.csproj": {}
   },
   "projects": {
-    "/Users/colekisten/Interviews/UrlShortener/UrlShortener.csproj": {
+    "/Users/colekisten/Interviews/kwiklinks-api/UrlShortener.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/colekisten/Interviews/UrlShortener/UrlShortener.csproj",
+        "projectUniqueName": "/Users/colekisten/Interviews/kwiklinks-api/UrlShortener.csproj",
         "projectName": "UrlShortener",
-        "projectPath": "/Users/colekisten/Interviews/UrlShortener/UrlShortener.csproj",
+        "projectPath": "/Users/colekisten/Interviews/kwiklinks-api/UrlShortener.csproj",
         "packagesPath": "/Users/colekisten/.nuget/packages/",
-        "outputPath": "/Users/colekisten/Interviews/UrlShortener/obj/",
+        "outputPath": "/Users/colekisten/Interviews/kwiklinks-api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/colekisten/.nuget/NuGet/NuGet.Config"
